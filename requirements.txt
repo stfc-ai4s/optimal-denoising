@@ -1,0 +1,16 @@
+bm3d  
+lipips  
+matplotlib  
+numpy  
+pandas  
+pytest  
+scikit-image  
+scikit-learn  
+scipy  
+seaborn  
+sklearn  
+timm  
+torch  
+torchmetrics  
+torchvision  
+tqdm  
